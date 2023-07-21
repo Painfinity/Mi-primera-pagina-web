@@ -1,0 +1,16 @@
+#mi-id{color: blueviolet; font-variant: small-caps;font-size: 40px;}
+h1{color: red;font-size: 80px;margin-top: 20px;text-align: center;margin-bottom: 1px;}
+h2{color: blue;}
+ol{color: red;}
+button{position: center;size: 400px;}
+body{background-image: url("https://beanstalk-9fcd.kxcdn.com/wp-content/uploads/2022/11/Dead-by-Daylight-Wallpaper.jpg");background-repeat: repeat-y;background-position: center;background-size: cover;}
+p{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+div .caja{border: 5px solid violet;padding: 10px;margin: 5px;width: 200px;height: 150px;font-size: 35px;text-align: center;margin: auto;background-color: aqua;display: none;}
+div .caja1{border: 5px solid violet;padding: 10px;margin: 5px;width: 100px;height: 100px;font-size: 35px;text-align: center;margin: auto;background-color: aqua;}
+div .caja2{border: 5px solid violet;padding: 10px;margin: 5px;width: 100px;height: 100px;font-size: 35px;text-align: center;margin: auto;background-color: aqua;}
+.caja3{border: 5px solid violet;padding: 10px;margin: 5px;width: 100px;height: 110px;font-size: 35px;text-align: center;margin: auto;background-color: aqua;}
+.contenedor{
+    .bloque1{width: 100px;}
+    .bloque2{width: 100px;}
+    .bloque3{width: 100px;}   
+}
